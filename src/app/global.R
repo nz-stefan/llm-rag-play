@@ -15,7 +15,7 @@ library(stringr)
 
 # Global constants --------------------------------------------------------
 
-F_GREETINGS <- "/home/rstudio/src/app/greetings.md"
-F_SYSTEM_PROMPT <- "/home/rstudio/src/app/prompt.md"
-F_VECTOR_STORE <- "/home/rstudio/papers.ragnar.duckdb"
+F_GREETINGS <- "greetings.md"
+F_SYSTEM_PROMPT <- "prompt.md"
+F_VECTOR_STORE <- "papers.ragnar.duckdb"
 

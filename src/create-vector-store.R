@@ -13,7 +13,7 @@ library(dplyr)
 # Config ------------------------------------------------------------------
 
 F_PDFS <- "/home/rstudio/data/articles"
-F_VECTOR_STORE <- "/home/rstudio/papers.ragnar.duckdb"
+F_VECTOR_STORE <- "/home/rstudio/src/app/papers.ragnar.duckdb"
 
 
 # Process PDF files -------------------------------------------------------
