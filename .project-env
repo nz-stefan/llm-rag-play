@@ -1,0 +1,4 @@
+PROJECT_NAME=llm-rag-play
+DOCKER_IMAGE=project/llm-rag-play
+DOCKER_PORT=8797   # <---- change port here to avoid clashes with other Rstudio containers
+

@@ -1,0 +1,3 @@
+# Copy this file to .Renviron and set the ANTHROPIC API KEY accordingly.
+ANTHROPIC_API_KEY="YOUR ANTHROPIC API KEY"
+

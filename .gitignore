@@ -1,0 +1,10 @@
+.Renviron
+.Rhistory
+.sh_history
+.wget-hsts
+.local
+.cache
+data/articles
+src/ragnar-example.R
+src/ragnar-paper-play.R
+
